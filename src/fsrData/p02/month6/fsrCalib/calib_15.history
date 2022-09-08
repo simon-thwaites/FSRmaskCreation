@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="calib_15" notes="">
+
+  <Parameters>
+    <Param header="0" name="Capture Date" value="2020-Aug-11 15:21:09"/>
+    <Param header="0" name="x2d" value="calib_15.x2d"/>
+    <Param header="0" name="x1d" value="calib_15.x1d"/>
+  </Parameters>
+
+</Trial>
